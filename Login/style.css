@@ -1,0 +1,65 @@
+.orta
+{   
+    padding:25px;
+    width: 500px;
+    margin: 50px auto;
+    background-color:#4d6879;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+}
+label
+{
+    display: block;
+    
+}
+* {
+   margin: 3px; 
+}
+.solhizali {
+    float: left;
+  }
+.kullaniciadi {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #95966a;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.e-posta {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #95966a;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.şifre {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #95966a;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.dogumtarihi {
+    margin-top: 50px;
+    width: 100%;
+    background-color: #95966a;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer; 
+}
